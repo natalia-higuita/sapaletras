@@ -1,0 +1,46 @@
+body {
+    background-color: #000000;
+}
+p{
+    text-align: center; 
+    padding: 10px;
+    border: none;
+    font: normal 48px/normal "Warnes", Helvetica, sans-serif;
+    color: rgba(255, 255, 255, 1);
+    text-decoration: normal;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 1), 0 0 20px rgba(255, 255, 255, 1), 0 0 30px rgba(255, 255, 255, 1), 0 0 40px #ff00de, 0 0 70px #ff00de, 0 0 80px #ff00de, 0 0 100px #ff00de;
+}
+
+.sopa{
+    margin: auto;
+}
+
+ul{
+    list-style-type: none;
+    border: none;
+    color: rgba(255, 255, 255, 1);
+    text-decoration: normal;
+    font-size: 20px;
+}
+
+.tabla{
+    margin: auto;
+    width: 410px;
+    height: 410px;
+    padding: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+table{
+    margin: 3px;
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+    box-shadow: 0 0 5px rgba(255, 255, 255, 1);
+    border-radius: 5px;
+    float: left;
+    border: 1px solid red ;
+    color: beige;
+    font-size: 25px;
+}
